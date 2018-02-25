@@ -1,0 +1,4 @@
+[submodule "openwrt"]
+	path = openwrt
+	url = git@github.com:korhalio/openwrt.git
+	branch = kh
